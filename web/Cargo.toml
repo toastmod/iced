@@ -16,7 +16,7 @@ maintenance = { status = "actively-developed" }
 
 [dependencies]
 dodrio = "0.2"
-wasm-bindgen = "0.2"
+wasm-bindgen = "0.2.74"
 wasm-bindgen-futures = "0.4"
 url = "2.0"
 num-traits = "0.2"
